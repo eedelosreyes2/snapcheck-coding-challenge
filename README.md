@@ -1,5 +1,15 @@
 # snapcheck-coding-challenge
 
+## Challenge
+```
+https://github.com/mountainowl/snapcheck-internship-2020/tree/master/front-end
+```
+
+## Resources
+```
+https://auth0.com/blog/beginner-vuejs-tutorial-with-user-login/
+```
+
 ## Project setup
 ```
 npm install
